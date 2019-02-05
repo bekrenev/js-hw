@@ -75,7 +75,7 @@ function hello(human) {
     lastName: 'Бекренёв',
     age: 27
   };
-  return human = 'Привет меня зовут, ' + obj.name + ' ' + obj.lastName + 'и мне ' + obj.age + ' лет';
+  return human = 'Привет меня зовут, ' + obj.name + ' ' + obj.lastName + 'и мне ' + obj.age + ' лет!';
 };
 
 let test = hello();
